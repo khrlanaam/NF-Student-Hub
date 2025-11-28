@@ -1,1 +1,1 @@
-# NF-Student-Hub
+# NF-Student-Hub by Smart Campus Group
